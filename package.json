@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/xybersolve/xs-persist/issues"
   },
-  "homepage": "https://github.com/xybersolve/xs-persist#readme"
+  "homepage": "https://github.com/xybersolve/xs-persist#readme",
+  "dependencies": {
+    "@xybersolve/xs-dates": "0.0.4"
+  }
 }

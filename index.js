@@ -1,5 +1,5 @@
 const fs = require('fs');
-const datetime = require('./dates');
+const datetime = require('@xybersolve/xs-dates');
 
 const writeToFile = (filename, data, dateStamp) => {
   let file = (dateStamp === true) ? datetime.yyyymmdd() + '.' + filename : filename;
