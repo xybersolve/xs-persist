@@ -1,0 +1,26 @@
+{
+  "name": "@xybersolve/xs-persist",
+  "version": "0.0.4",
+  "description": "Node routines to read and write from file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xybersolve/xs-persist.git"
+  },
+  "keywords": [
+    "Node",
+    "read",
+    "write",
+    "file",
+    "persist"
+  ],
+  "author": "Greg Milligan <xybersolve@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xybersolve/xs-persist/issues"
+  },
+  "homepage": "https://github.com/xybersolve/xs-persist#readme"
+}
