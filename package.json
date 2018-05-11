@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/xybersolve/xs-persist#readme",
   "dependencies": {
-    "@xybersolve/xs-dates": "0.0.4"
+    "xs-dates": "0.0.4"
   }
 }
