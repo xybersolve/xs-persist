@@ -1,6 +1,6 @@
 {
   "name": "xs-persist",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Node routines to read and write from file",
   "main": "index.js",
   "scripts": {
