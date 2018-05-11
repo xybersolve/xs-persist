@@ -1,5 +1,5 @@
 {
-  "name": "@xybersolve/xs-persist",
+  "name": "xs-persist",
   "version": "0.0.5",
   "description": "Node routines to read and write from file",
   "main": "index.js",
